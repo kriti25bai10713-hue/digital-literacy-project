@@ -20,7 +20,6 @@ Each task folder has supporting files, screenshots, and reflections.
 - Created an infographic on **Digital Literacy Awareness** using Canva.  
 - Focused on key aspects: safe internet practices, coding platforms, and collaboration tools.  
 - **Screenshot:** ![Infographic](task-1-[digital-literacy-infographic.pdf (1).pdf](https://github.com/user-attachments/files/26161047/digital-literacy-infographic.pdf.1.pdf)
-)  
 - Reflection included in project report.
 
 ---
@@ -41,16 +40,15 @@ Each task folder has supporting files, screenshots, and reflections.
 - Practiced Python basics and problem-solving.  
 - **Screenshot:** ![LeetCode Challenge](task-3-[screenshot (leetcode).pdf](https://github.com/user-attachments/files/26161040/screenshot.leetcode.pdf)]
 
-
-
+---
 
 ### Part B – Collaboration Tool
 - Designed a **Google Form Quiz** titled *Digital Literacy Awareness Quiz*.  
 - Added 5 questions (MCQ + Short Answer).  
 - Linked responses to Google Sheets.  
 - **Screenshots:** ![Form](task-3-[cse quiz screenshot.pdf](https://github.com/user-attachments/files/26161013/cse.quiz.screenshot.pdf)
-), ![Responses](task-3-[cse quize responses.pdf](https://github.com/user-attachments/files/26161039/cse.quize.responses.pdf)
-)  
+), ![Responses](task-3-[cse quize responses.pdf](https://github.com/user-attachments/files/26161039/cse.quize.responses.pdf))
+  
 - **Form Link:** [View Quiz](https://docs.google.com/forms/d/1KgmzCrx9PAes3ozRF5kTsTQW6jExL2QxD0kL56R6xbI/edit?chromeless=1)
 
 ---
