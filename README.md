@@ -19,7 +19,8 @@ Each task folder has supporting files, screenshots, and reflections.
 ## 📝 Task 1 – Infographic
 - Created an infographic on **Digital Literacy Awareness** using Canva.  
 - Focused on key aspects: safe internet practices, coding platforms, and collaboration tools.  
-- **Screenshot:** ![Infographic](task-1-presentation/infographic.png)  
+- **Screenshot:** ![Infographic](task-1-[digital-literacy-infographic.pdf (1).pdf](https://github.com/user-attachments/files/26161047/digital-literacy-infographic.pdf.1.pdf)
+)  
 - Reflection included in project report.
 
 ---
