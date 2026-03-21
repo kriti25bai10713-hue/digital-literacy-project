@@ -27,7 +27,7 @@ Each task folder has supporting files, screenshots, and reflections.
 ## 📝 Task 2 – Digital Portfolio
 - Built a **Digital Portfolio** showcasing my academic and professional presence.  
 - Accounts created/updated on:  
-  - [GitHub Profile](https://github.com/yourusername)  
+  - [GitHub Profile](https://github.com/kriti25bai10713-hue)  
   - [LinkedIn Profile](https://www.linkedin.com/public-profile/settings/)    
 - **Screenshots:** ![GitHub](task-2-portfolio/github-profile.png), ![LinkedIn](task-2-portfolio/linkedin-profile.png)
 - Reflection included in project report.
@@ -38,14 +38,19 @@ Each task folder has supporting files, screenshots, and reflections.
 ### Part A – Coding Practice
 - Completed the **Palindrome Number** problem on LeetCode.  
 - Practiced Python basics and problem-solving.  
-- **Screenshot:** ![LeetCode Challenge](task-3-platforms/leetcode.png)
+- **Screenshot:** ![LeetCode Challenge](task-3-[screenshot (leetcode).pdf](https://github.com/user-attachments/files/26161040/screenshot.leetcode.pdf)]
+
+
+
 
 ### Part B – Collaboration Tool
 - Designed a **Google Form Quiz** titled *Digital Literacy Awareness Quiz*.  
 - Added 5 questions (MCQ + Short Answer).  
 - Linked responses to Google Sheets.  
-- **Screenshots:** ![Form](task-3-platforms/googleform.png), ![Responses](task-3-platforms/responsesheet.png)  
-- **Form Link:** [View Quiz](https://forms.gle/yourformlink)
+- **Screenshots:** ![Form](task-3-[cse quiz screenshot.pdf](https://github.com/user-attachments/files/26161013/cse.quiz.screenshot.pdf)
+), ![Responses](task-3-[cse quize responses.pdf](https://github.com/user-attachments/files/26161039/cse.quize.responses.pdf)
+)  
+- **Form Link:** [View Quiz](https://docs.google.com/forms/d/1KgmzCrx9PAes3ozRF5kTsTQW6jExL2QxD0kL56R6xbI/edit?chromeless=1)
 
 ---
 
