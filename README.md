@@ -8,59 +8,65 @@ Each task folder has supporting files, screenshots, and reflections.
 
 ---
 
-## 📂 Repository Structure
-- `task-1-presentation/` → Infographic on Digital Literacy
-- `task-2-portfolio/` → Digital Portfolio (GitHub, LinkedIn, Kaggle/Stack Overflow)
-- `task-3-platforms/` → Coding Practice + Collaboration Tool
-- (Other tasks will be added later)
+# Digital Literacy Project
+
+## 📖 Introduction
+This repository contains my Digital Literacy Project for the course **CSE0001** at VIT Bhopal University.  
+The project demonstrates my ability to use digital tools responsibly, build a professional online presence, practice coding, and understand cybercrime awareness.  
 
 ---
 
-## 📝 Task 1 – Infographic
+## 📝 Tasks Overview
+
+### Task 1: Infographic
 - Created an infographic on **Digital Literacy Awareness** using Canva.  
-- Focused on key aspects: safe internet practices, coding platforms, and collaboration tools.  
-- **Screenshot:** ![Infographic](task-1-[digital-literacy-infographic.pdf (1).pdf](https://github.com/user-attachments/files/26161047/digital-literacy-infographic.pdf.1.pdf)
-- Reflection included in project report.
+- Highlighted safe internet practices, coding platforms, and collaboration tools.  
+- **Learning Outcome:** Visual communication can simplify complex ideas and make information memorable.  
 
 ---
 
-## 📝 Task 2 – Digital Portfolio
-- Built a **Digital Portfolio** showcasing my academic and professional presence.  
-- Accounts created/updated on:  
-  - [GitHub Profile](https://github.com/kriti25bai10713-hue)  
-  - [LinkedIn Profile](https://www.linkedin.com/public-profile/settings/)    
-- **Screenshots:** ![GitHub](task-2-portfolio/github-profile.png), ![LinkedIn](task-2-portfolio/linkedin-profile.png)
-- Reflection included in project report.
+### Task 2: Digital Portfolio
+- Built a professional portfolio on **GitHub**, **LinkedIn**, and **Stack Overflow**.  
+- **GitHub:** Uploaded Python scripts and documentation to showcase technical skills and compliance.  
+- **LinkedIn:** Created a professional profile to highlight certifications, achievements, and projects.  
+- **Stack Overflow:** Engaged with the developer community for troubleshooting and learning.  
+- **Reflection:** These platforms together form a living map of my technical journey.  
 
 ---
 
-## 📝 Task 3 – Coding & Collaboration Platforms
-### Part A – Coding Practice
-- Completed the **Palindrome Number** problem on LeetCode.  
-- Practiced Python basics and problem-solving.  
-- **Screenshot:** ![LeetCode Challenge](task-3-[screenshot (leetcode).pdf](https://github.com/user-attachments/files/26161040/screenshot.leetcode.pdf)]
+### Task 3: Coding & Collaboration
+- Solved coding challenges on **HackerRank** (e.g., arithmetic operations).  
+- Created a **Google Form Quiz** for collaboration and data collection.  
+- **Learning Outcome:** Practiced modular coding, debugging, and teamwork.  
 
 ---
 
-### Part B – Collaboration Tool
-- Designed a **Google Form Quiz** titled *Digital Literacy Awareness Quiz*.  
-- Added 5 questions (MCQ + Short Answer).  
-- Linked responses to Google Sheets.  
-- **Screenshots:** ![Form](task-3-[cse quiz screenshot.pdf](https://github.com/user-attachments/files/26161013/cse.quiz.screenshot.pdf)
-), ![Responses](task-3-[cse quize responses.pdf](https://github.com/user-attachments/files/26161039/cse.quize.responses.pdf))
-  
-- **Form Link:** [View Quiz](https://docs.google.com/forms/d/1KgmzCrx9PAes3ozRF5kTsTQW6jExL2QxD0kL56R6xbI/edit?chromeless=1)
+### Task 4: Email Etiquette
+- Drafted two professional emails:  
+  1. Requesting an extension on assignment submission.  
+  2. Expressing interest in a summer internship.  
+- **Learning Outcome:** Learned professional communication and digital etiquette.  
 
 ---
 
-## 📑 Reflections
-Each task includes a 150–200 word reflection in the **Project Report PDF**.  
-These reflections highlight learning outcomes, challenges, and applications of digital literacy skills.
+### Task 5: Cybercrime Awareness
+- Case study on **Phishing** with step‑by‑step explanation, consequences, and real‑world example.  
+- Designed a **Prevention Checklist** covering UPI safety, 2FA, HTTPS vigilance, and password managers.  
+- **Reflection:** Understood that cybercrime awareness is both technical and psychological.  
 
 ---
 
-## ✅ Status
-- Task 1 ✔️  
-- Task 2 ✔️  
-- Task 3 ✔️  
-- Task 4 & Task 5 → To be added
+## 🎯 Learning Outcomes
+- Improved coding and debugging skills through HackerRank.  
+- Built a professional identity on GitHub and LinkedIn.  
+- Practiced responsible communication via email and social media.  
+- Learned to design infographics and awareness material.  
+- Understood cybercrime risks and prevention strategies.  
+
+---
+
+## 📌 Conclusion
+This project helped me integrate **technical practice, professional networking, and digital responsibility**.  
+Over the next four years, I plan to continue using GitHub, LinkedIn, HackerRank, and Stack Overflow to grow academically and professionally in Artificial Intelligence and Machine Learning.  
+
+
